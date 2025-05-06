@@ -36,6 +36,7 @@ The project is organized as follows:
 
 - **`/procurement.png`**: Contains the Procurement ERD diagram.
 - **`/procurement.sql`**: SQL script for creating and populating the procurement database.
+- **`package-lock.json`** : Node.js-is not needed here though
 - **`/judicial database/`**: A folder dedicated to the judicial database, containing:
   - **`judical.png`**: The Judicial ERD diagram.
   - **`judicial.sql`**: SQL script for creating and populating the judicial database.
