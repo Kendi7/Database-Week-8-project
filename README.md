@@ -20,7 +20,7 @@ The Procurement ERD illustrates the database structure for managing procurement 
 
 ## Judicial ERD
 
-![Judicial ERD](judicial database/judical.png)
+![Judicial ERD](judicial20%database/judical.png)
 
 The Judicial ERD represents the database structure for judicial processes, including entities such as judges, cases, and hearings.
 
