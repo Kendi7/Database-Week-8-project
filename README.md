@@ -3,7 +3,7 @@
 ## Procurement ERD
 ![procurement ERD](procurement.png)
 ## Judical ERD
-![alt text](/judicial%20database/judical.png)
+![alt text](judicial%20database/judical.png)
 # Database Project
 
 This project provides a comprehensive database solution for managing procurement and judicial processes. It includes Entity-Relationship Diagrams (ERDs), SQL scripts for database creation and population, and a Node.js API for interacting with the judicial database.
