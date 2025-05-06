@@ -1,0 +1,18 @@
+{
+    "name": "judiciary-api-node",
+    "version": "1.0.0",
+    "description": "A simple Node.js CRUD API for Judiciary system using Express and MySQL",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Kennedy Ouma Otieno",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.18.2",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.14.1"
+    },
+    "keywords": []
+}
