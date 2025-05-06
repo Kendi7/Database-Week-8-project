@@ -41,6 +41,7 @@ The project is organized as follows:
   - **`judicial.sql`**: SQL script for creating and populating the judicial database.
   - **`index.js`**: A Node.js API for interacting with the judicial database.
   - **`package.json`**: Node.js project configuration file with dependencies.
+  - **`package-lock.json`** : Node.js -Locks Dependencies to Exact Versions
 - **`/README.md`**: The main documentation file for the project.
 
 ---
